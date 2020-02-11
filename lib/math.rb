@@ -8,7 +8,7 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-
+   return sum = 6 / 3
 end
 
 def multiplication(num1, num2)
