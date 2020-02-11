@@ -1,13 +1,6 @@
-require 'spec_helper'
 
-describe "#addition" do 
-  it "adds two numbers together" do
-    expect(addition(5,4)).to eq(9)
-  end
-end
 def addition(num1, num2)
-  sum
-
+  sum = num1 + num2
 end
 
 def subtraction(num1, num2)
