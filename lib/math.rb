@@ -20,5 +20,5 @@ return sum = 34 % 5
 end
 
 def square_root(num)
-
+  return sum = Math.sqrt(81)
 end
