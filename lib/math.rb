@@ -6,7 +6,7 @@ describe "#addition" do
   end
 end
 def addition(num1, num2)
-  puts 
+  sum
 
 end
 
